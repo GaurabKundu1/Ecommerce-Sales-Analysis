@@ -20,7 +20,7 @@ An Interactive Report by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu
 
 ## Dashboard
 
-<img src="https://github.com/GaurabKundu1/Bike-Sales-Data-Analysis/assets/86102231/b38a4737-9b3c-4097-9b59-986346ceae5e">
+<img src="https://github.com/GaurabKundu1/Ecommerce-Sales-Analysis/assets/86102231/1acf9752-e5b3-4872-b810-73b626b8e55c">
 
 [Interactive Dashboard Click Here](https://1drv.ms/x/s!Aks5Klbk4uC8gb8C2XZ6HIlTuAW_vw?e=NjaZkN)
 
