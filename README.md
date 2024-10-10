@@ -75,7 +75,7 @@ E-commerce is rapidly becoming one of the fastest-growing sectors, with more cus
 
 ## Dashboard Outcomes (Tasks Accomplished)
 - Conducted an in-depth analysis of E-commerce sales data to derive meaningful insights for each region and segment.
-- Developed an interactive dashboard featuring 5 KPIs, multiple filters, and 6 dynamic charts in Excel.
+- Developed an interactive dashboard featuring 5 KPIs, multiple filters, and 5 dynamic charts in Excel.
 - Created a combo chart showcasing product sales and profits by month.
 - Identified the best-selling products and the top 5 premium customers.
 - Built pie and column charts for category-wise profit and sales, respectively.
