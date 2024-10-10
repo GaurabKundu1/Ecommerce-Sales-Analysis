@@ -2,21 +2,86 @@
 
 An Interactive Report by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
 
-## The Process:
+## Background
+E-commerce is rapidly becoming one of the fastest-growing sectors, with more customers opting for online shopping. As businesses increasingly implement websites for commercial transactions, online shopping is becoming a common practice.
 
-- Step 1: Define Objectives and Data Sources Crystal-clear objectives are crucial. Our aim? Enhancing product performance. We gathered data from multiple sources, including sales records, website traffic, and customer reviews.
+## Domain
+**E-Commerce**
 
-- Step 2: Data Cleansing and Transformation Data can be messy! Cleaning involved removing duplicates and handling missing values. Power Query was our hero for advanced transformations.
+---
 
-- Step 3: Unleashing PivotTables for In-Depth Analysis PivotTables unlocked the potential of our data. We effortlessly summarized and analyzed vast amounts of information.
+## Business Requirements
+1. **Total Sales Analysis:**  
+   Calculate the total sales of all orders over 12 months for each region and segment.
 
-- Step 4: Visualizing Trends with Charts and Graphs Charts are worth a thousand words. We used line charts for tracking trends and bar charts for comparing product categories. Excel's range of charts helped us communicate insights visually.
+2. **Category-Wise Profit and Sales Analysis:**  
+   Analyze product performance by category, creating charts to visualize sales and profit patterns across various months.
 
-- Step 5: Dynamic Dashboards with PivotCharts and Slicers PivotCharts breathed life into our data. Adding slicers made the dashboard interactive, enabling users to explore data effortlessly.
+3. **Top Paying Customers Identification:**  
+   Determine the top-paying customers to offer special premium discounts.
 
-- Step 6: Advanced Formulas for Custom Insights Formulas like INDEX-MATCH, XLOOKUP, FILTER, and SUMIFS played a vital role. Named ranges enhanced the intuitiveness of our formulas.
+4. **Best Selling Products Analysis:**  
+   Identify the best-selling products across different segments.
 
-- Step 7: Elevating Visualization with Conditional Formatting Conditional formatting made essential data points stand out. Sparklines added mini-trends directly within cells.
+5. **Year-Over-Year (YOY) Growth Calculation:**  
+   Calculate YOY growth for multiple key metrics.
+
+---
+
+## Installation of the Project
+- **Download the Workbook:**  
+  Obtain the workbook named *'Ecommerce Sales Analysis'*.
+  
+- **Sheets Overview:**  
+  - The **'Data'** sheet contains combined data for all orders, including regions, customers, sales, and countries.
+  - The **'Dashboard'** sheet features the main dynamic dashboard with 6 interactive charts, 5 KPIs, and filters for ship mode and region.
+
+---
+
+## Learnings
+- Dashboard Development
+- Calculated Fields
+- Custom Charts and Formatting
+- Conditional Formatting
+- YOY Calculation
+- Sparklines
+- Filters and Sorting
+- Pivot Tables
+
+---
+
+## Dataset Overview
+### Fields and Descriptions
+- **Order Date:** Date the customer placed the order.
+- **Ship Date:** Shipment date of the placed order.
+- **Ship Mode:** Mode of shipment (Same Day/First Class/Second Class/Standard).
+- **Customer ID:** Unique identifier for each customer.
+- **Segment:** Customer segment (Consumer/Home Office/Corporate).
+- **Country:** Customer's country.
+- **City:** Customer's city.
+- **State:** Customer's state.
+- **Postal Code:** Customer's postal code.
+- **Region:** Main region according to the country.
+- **Product ID:** Unique identifier for each product.
+- **Category:** Category of the product.
+- **Sub-Category:** Sub-category of the product.
+- **Product Name:** Name of the ordered product.
+- **Sales:** Sales value of the product sold.
+- **Quantity:** Number of quantities ordered.
+- **Discount:** Offer/discount percentage on the product.
+- **Profit:** Profit earned from the product order.
+
+---
+
+## Dashboard Outcomes (Tasks Accomplished)
+- Conducted an in-depth analysis of E-commerce sales data to derive meaningful insights for each region and segment.
+- Developed an interactive dashboard featuring 5 KPIs, multiple filters, and 6 dynamic charts in Excel.
+- Created a combo chart showcasing product sales and profits by month.
+- Identified the best-selling products and the top 5 premium customers.
+- Built pie and column charts for category-wise profit and sales, respectively.
+- Implemented a map chart to visualize sales by state.
+
+---
 
 ## Dashboard
 
